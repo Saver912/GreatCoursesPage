@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.selenium.greatcourses.tests.SmokeTests]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.selenium.greatcourses.tests.SmokeTests">
+        <methods>
+          <include name="afterAllTest"/>
+          <include name="beforeAllTest"/>
+          <include name="beforeEachTest"/>
+          <include name="buy_TheAgingBrainCoursTest"/>
+          <include name="afterEachTest"/>
+        </methods>
+      </class> <!-- com.selenium.greatcourses.tests.SmokeTests -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.selenium.greatcourses.tests.SmokeTests] -->

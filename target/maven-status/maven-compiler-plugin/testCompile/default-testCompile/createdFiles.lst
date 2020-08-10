@@ -1,0 +1,13 @@
+com\selenium\greatcourses\pages\SciencePage.class
+com\selenium\greatcourses\pages\ChooseAFormatPage.class
+com\selenium\libraries\DatabaseManager.class
+com\selenium\libraries\Base.class
+com\selenium\greatcourses\pages\HomePage.class
+com\selenium\greatcourses\pages\CheckOutPage.class
+com\selenium\greatcourses\pages\ViewCartPage.class
+com\selenium\libraries\EmailManager$1.class
+com\selenium\libraries\EmailManager.class
+com\selenium\libraries\GlobalSeleniumLibrary.class
+com\selenium\libraries\GlobalSeleniumLibrary$1.class
+com\selenium\libraries\JavaPropertiesManager.class
+com\selenium\greatcourses\tests\SmokeTests.class

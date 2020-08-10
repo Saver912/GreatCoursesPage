@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.selenium.greatcourses.tests.WindowHandlesTest"/>
+      <class name="com.selenium.greatcourses.tests.TestGird"/>
+      <class name="com.selenium.greatcourses.tests.SmokeTests"/>
+      <class name="com.selenium.greatcourses.tests.DataDrivenTests"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
